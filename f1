@@ -1,1 +1,2 @@
 create table customer(name varchar(20),Address varchar(20))
+insert itno customer values('raveena','trichy')
